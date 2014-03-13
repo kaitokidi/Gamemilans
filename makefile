@@ -34,7 +34,7 @@ executethegaem:
 	./gamemilans
 	
 murs:
-	./gamemilans 25
+	./gamemilans 22
 	
 onlinese: 
 	./gamemilans 0 S
