@@ -53,6 +53,7 @@ int Presentacio::handler(){
 			// window closed 
 			case sf::Event::Closed:
 				window_game.close();
+				exit(0);
 				break;
 			// mouse pressed
 			case sf::Event::MouseButtonPressed:
